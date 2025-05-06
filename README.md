@@ -1,4 +1,4 @@
-# VCamera
+VVCamera
 
 This is a powerful app that allows you to replace the camera with the video you specify.  </b>  
  It can be used as a live broadcast assistant, such as using local movies as live broadcast content. </b>    
@@ -6,17 +6,17 @@ This is a powerful app that allows you to replace the camera with the video you 
 
 # Scenes to be used:
 1. Protect the privacy of the camera and prevent some apps from maliciously taking pictures.  
-2. Live Assistant. Similar to OBS, but may be better than OBS, can be used for Twitch, Youtube, Facebook, etc.  
+2. Live Assistant. Similar to , but may be better than OBS, can be used for Twitch, Youtube, Facebook, messenger,imo,etc.  
 3. Entertainment among friends. How fun it would be to record a hilarious video to prank your friends. 
 
 **Notice:**  
 **Please strictly abide by the laws and regulations. It is strictly forbidden to use this APP for any illegal activities, otherwise you will bear the consequences.**  
-
+https://github.com/andvipgroup/VCamera/commit/0469223fa0b3b65d5550a0d351270565a5537b78#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5L43
 
 # QA:
 **If you are the owner of an APP,How to detect if you don’t want your APP to run in VCamera?**  
 VCamera is based on a virtual machine, so you can detect whether it is currently running in a virtual machine environment.  
-[Check Env Demo Code](https://github.com/andvipgroup/VCamera/tree/main/check_env_demo/code)  
+[Check Env Demo Code]Negative 1(https://github.com/andvipgroup/VCamera/tree/main/check_env_demo/code)  
 [Check Env Demo Apk](https://github.com/andvipgroup/VCamera/blob/main/check_env_demo/check_env_demo.apk)  <br><br>
 ![Check Env Demo Apk Screenshot](https://github.com/andvipgroup/VCamera/blob/main/check_env_demo/check_result.png?raw=true)  
 Here "isPathReallyExist  < 0" means it running in a virtual machine.  
@@ -40,9 +40,10 @@ If "isPathReallyExist = 0" means it running in a real device.
 andvipgroup@gmail.com
 
 # APK Download
-**Latest version : 3.5.4**  
+**Latest version : 3.5.7**  
 <p align="left">
   <a href='https://play.google.com/store/apps/details?id=virtual.camera.app'>
     <img alt='Get it on Google Play' height='90' src='https://github.com/andvipgroup/VCamera/blob/main/gp.png'/>
   </a>
 </p>
+Someone's 11 in the play version
